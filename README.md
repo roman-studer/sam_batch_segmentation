@@ -11,6 +11,7 @@ This repository contains three Python scripts: get_sam_masks.py, get_sam_model.p
 ## Installation
 1. Clone this repository to your local machine.
 2. Install the required packages using pip install -r requirements.txt.
+3. Create th folders "data" and "model/checkpoint"
 3. Download the pre-trained [SAM model checkpoint](https://github.com/facebookresearch/segment-anything#model-checkpoints) "sam_vit_h_4b8939" from meta and place it in the model/checkpoint directory of this repository.
 
 ## Usage
